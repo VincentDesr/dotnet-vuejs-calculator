@@ -46,6 +46,7 @@ public class CalculatorController : ControllerBase
     [ProducesResponseType(typeof(ProblemDetails), StatusCodes.Status400BadRequest)]
     public IActionResult Evaluate([FromBody] EvaluateRequest request)
     {
+        var startTime = DateTime.UtcNow;
         try
         {
             if (string.IsNullOrWhiteSpace(request?.Expression))
@@ -61,6 +62,9 @@ public class CalculatorController : ControllerBase
             _logger.LogInformation("Evaluating expression: {Expression}", request.Expression);
 
             var result = _calculatorService.Evaluate(request.Expression);
+
+            var elapsed = (DateTime.UtcNow - startTime).TotalMilliseconds;
+            _logger.LogInformation("Evaluation completed in {ElapsedMs}ms", elapsed);
 
             return Ok(new EvaluateResponse(result, request.Expression));
         }

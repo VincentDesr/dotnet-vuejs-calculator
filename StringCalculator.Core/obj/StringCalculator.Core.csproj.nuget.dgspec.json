@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {}
+    "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {}
   },
   "projects": {
-    "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
+    "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
+        "projectUniqueName": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
         "projectName": "StringCalculator.Core",
-        "projectPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
+        "projectPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
         "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-        "outputPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\obj\\",
+        "outputPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config"
