@@ -20,6 +20,23 @@ public class CalculatorController : ControllerBase
     }
 
     /// <summary>
+    /// Gets the current server time and API status.
+    /// </summary>
+    /// <returns>Current time and status message.</returns>
+    [HttpGet]
+    [ProducesResponseType(typeof(object), StatusCodes.Status200OK)]
+    public IActionResult GetStatus()
+    {
+        return Ok(new
+        {
+            message = "String Calculator API is running",
+            serverTime = DateTime.UtcNow,
+            localTime = DateTime.Now,
+            endpoint = "/api/calculator/evaluate"
+        });
+    }
+
+    /// <summary>
     /// Evaluates a mathematical expression.
     /// </summary>
     /// <param name="request">The evaluation request containing the expression.</param>
