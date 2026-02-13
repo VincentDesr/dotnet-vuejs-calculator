@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj": {}
+    "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj": {}
   },
   "projects": {
-    "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
+    "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
+        "projectUniqueName": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
         "projectName": "StringCalculator.Core",
-        "projectPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
+        "projectPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj",
         "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-        "outputPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\obj\\",
+        "outputPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj": {
+    "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
+        "projectUniqueName": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
         "projectName": "StringCalculator.Tests",
-        "projectPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
+        "projectPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
         "packagesPath": "C:\\Users\\vince\\.nuget\\packages\\",
-        "outputPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\obj\\",
+        "outputPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vince\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -85,8 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
-                "projectPath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj"
+              "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj": {
+                "projectPath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Core\\StringCalculator.Core.csproj"
               }
             }
           }
@@ -140,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.309/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

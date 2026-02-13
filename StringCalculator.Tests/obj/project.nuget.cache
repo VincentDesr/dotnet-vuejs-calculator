@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kypTJ1DIaxI=",
+  "dgSpecHash": "qS89SwQ6Yvc=",
   "success": true,
-  "projectFilePath": "c:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
+  "projectFilePath": "C:\\Coding\\ezo-le-defi-code\\StringCalculator.Tests\\StringCalculator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vince\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\vince\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
